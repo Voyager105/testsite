@@ -1,0 +1,17 @@
+@charset "utf-8";
+body,td,th {
+	color: rgba(204,204,204,1);
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color: rgba(0,0,0,1);
+}
+#pageintro {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: x-large;
+	font-style: italic;
+	color: rgba(255,255,255,1);
+}
+.hottext {
+	color: rgba(255,255,0,1);
+}
